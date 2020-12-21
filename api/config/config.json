@@ -1,0 +1,16 @@
+{
+  "port": "3000",
+  "logFilename": "/home/vanilla/Vanilla/Golang/go-jwt-crud/api/logs/server.log",
+  "logMaxSize": 10,
+  "logMaxBackups": 10,
+  "logMaxAge": 30,
+
+  "DBUser": "postgres",
+  "DBPass": "shinigamielf",
+  "DBHost": "localhost",
+  "DBPort": "9090",
+  "DBName": "go_crud",
+  "DBDrive": "postgres",
+
+  "keySecret": "!!HelloWorld!!"
+}
